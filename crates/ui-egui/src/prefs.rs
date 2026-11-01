@@ -5754,6 +5754,7 @@ mod tests {
             ("toast_place", json!("centre"), PAGE_LAYOUT),
             ("ribbon_icon_grid", json!(true), PAGE_LAYOUT),
             ("ribbon_menus_skip_pinned", json!(true), PAGE_LAYOUT),
+            ("sketch_chamfer_submenu", json!(false), PAGE_LAYOUT),
             ("timeline_left", json!(true), PAGE_LAYOUT),
             ("timeline_under_browser", json!(true), PAGE_LAYOUT),
             ("history_sketches", json!("under_feature"), PAGE_LAYOUT),
